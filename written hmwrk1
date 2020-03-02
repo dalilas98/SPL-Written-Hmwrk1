@@ -1,1 +1,5 @@
 
+#attemp of number 1 
+<S> --> <A'> <C'> <D'>
+<A> --> A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z
+<C> ---> <B'> <B'> <H'>
