@@ -16,4 +16,7 @@
 <assign> --> <var> = <expr>
 <var>type = int = <expr> type = int
 
-#attempt of number 
+#attempt of number 2 (part2)
+<expr> --> <var> + <var>
+<expr>type=int --> <var> type=int + <var> type = float/int
+<expr>type =float --> <var>type=float + <var>type = int/float 
