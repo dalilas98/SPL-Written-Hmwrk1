@@ -19,4 +19,4 @@
 #attempt of number 2 (part2)
 <expr> --> <var> + <var>
 <expr>type=int --> <var> type=int + <var> type = float/int
-<expr>type =float --> <var>type=float + <var>type = int/float 
+<expr>type =float --> <var>type=float + <var>type = int/float  
