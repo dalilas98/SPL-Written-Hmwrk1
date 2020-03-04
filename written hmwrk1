@@ -20,7 +20,7 @@
 <expr>type=int --> <var> type=int + <var> type = float/int
 <expr>type =float --> <var>type=float + <var>type = int/float  
 
-#attmept of number 3(part3)
+#attmept of number 3
 <expr> --> <var> - <var>
 <expr> type = int --> <var>type = int - <var>typr =int/float
 <expr>type = float--> <var>type=float - <var>type=int/float
