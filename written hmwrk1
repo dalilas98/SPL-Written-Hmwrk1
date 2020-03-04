@@ -24,3 +24,9 @@
 <expr> --> <var> - <var>
 <expr> type = int --> <var>type = int - <var>typr =int/float
 <expr>type = float--> <var>type=float - <var>type=int/float
+
+#seconde part of number 3
+<expr>  <var>
+<expr>type =int  <var>type = int
+<expr>type = float  <var>type = float/int
+
