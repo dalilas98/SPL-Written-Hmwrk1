@@ -26,13 +26,13 @@
 <expr>type = float--> <var>type=float - <var>type=int/float
 
 #seconde part of number 3
-<expr>  <var>
-<expr>type =int  <var>type = int
-<expr>type = float  <var>type = float/int
+<expr> --> <var>
+<expr>type =int --> <var>type = int
+<expr>type = float --> <var>type = float/int
 
 final portion of number 
-var  A|B|C
-<var>type =int  A: type= int B: type=int C: type =int 
-<var>type =float  A: type =float B: type =float C: type = float
+var --> A|B|C
+<var>type =int --> A type= int |B type=int |C type =int 
+<var>type =float --> A type =float |B type =float |Ctype = float
 
 
