@@ -11,6 +11,6 @@
 
 
 
-#attempt of number 2
+#attempt of number 2(part1)
 <assign> --> <var> = <expr>
 <var>type = int = <expr> type = int
