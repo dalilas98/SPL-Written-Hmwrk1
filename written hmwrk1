@@ -30,3 +30,9 @@
 <expr>type =int  <var>type = int
 <expr>type = float  <var>type = float/int
 
+final portion of number 
+var  A|B|C
+<var>type =int  A: type= int B: type=int C: type =int 
+<var>type =float  A: type =float B: type =float C: type = float
+
+
